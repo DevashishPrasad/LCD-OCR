@@ -28,7 +28,7 @@ to filter the images as clean as possible and then feeds it to Tesseract.
 
 #### Inverted threshold image
 
-<img src="images/invert.png" alt="Picture not availble in your browser"/>
+<img src="Images/invert.png" alt="Picture not availble in your browser"/>
 
 #### Results 
 
